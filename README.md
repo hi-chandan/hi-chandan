@@ -6,7 +6,7 @@
 <div align="center">
 <br/>
 
-<h3>Full-Stack-Dv | Fontend-Backend</h3>
+<h3>Mern-Stack-Dv | Fontend-Backend</h3>
  <br/><br/> 
   <a href="https://www.linkedin.com/in/hichandan317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
