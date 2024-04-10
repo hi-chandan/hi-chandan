@@ -19,7 +19,7 @@
 <h3 align="center">⚒️ Skills: Languages, Frameworks, Tools ⚒️</h3>
 
 <div align="center"><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,next,typescript" /> <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" /> <br/>
     <img src="https://skillicons.dev/icons?i=nodejs,express,postman,mongodb" />
 </div>
 <br/>
